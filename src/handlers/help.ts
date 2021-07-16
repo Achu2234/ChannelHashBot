@@ -3,7 +3,7 @@ import CustomContext from '../context';
 import { ExtraReplyMessage } from 'telegraf/typings/telegram-types';
 
 const startMessage =
-    'Hi, I was made to help you keep track of hashtags that are sent to your group by sending them to a channel. ' +
+    'Hi, My Name is Channel Hash Traker I am Here to help you keep track of hashtags that are sent to your group by sending them to a channel. ' +
     'To learn my commands, send /help and for a step-by-step guide on how to set me up, send /setup.';
 
 const helpMessage = `
@@ -16,7 +16,7 @@ const helpMessage = `
 const setupMessage = `
 <b>To set up a channel:</b>
 1. Add me to a channel
-2. Send <code>@ChannelHashBot</code> to your channel
+2. Send <code>@@ChannelHashTraker_RoBot</code> to your channel
 
 <b>To set up a group:</b>
 1. Add me to a group
