@@ -16,7 +16,7 @@ const helpMessage = `
 const setupMessage = `
 <b>To set up a channel:</b>
 1. Add me to a channel
-2. Send <code>@@ChannelHashTraker_RoBot</code> to your channel
+2. Send <code>@ChannelHashTraker_RoBot</code> to your channel
 
 <b>To set up a group:</b>
 1. Add me to a group
